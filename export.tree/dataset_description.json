@@ -1,0 +1,18 @@
+{
+    "Name": "A comparison of denoising approaches for spoken word production related artefacts in continuous multiband fMRI data",
+    "BIDSVersion": "1.9.0",
+    "DatasetType": "raw",
+    "License": "CC0",
+    "Authors": [
+        "Angelique Volfart",
+        "Katie McMahon",
+        "Greig de Zubicaray"
+    ],
+    "Funding": [
+        "Australian Research Council DP200100127"
+    ],
+    "EthicsApprovals": [
+        "Metro North Health and QUT HREC (HREC/15/QRBW/447 and 2015-1148-1620)"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds004957.v1.0.1"
+}
